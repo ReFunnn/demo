@@ -109,7 +109,7 @@
     line-height: 32px;
 }
 .shop-price{
-    width: 100px;
+    width: calc(100% - 110px - 20px);
     /* background-color: blue; */
     position: absolute;
     right: 10px;
